@@ -3,7 +3,7 @@
 #include<lacal.h>
 using namespace std;
 
-//учебная программа
+//Программа является учебной
 int main()
 {
 	
